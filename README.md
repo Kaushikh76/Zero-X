@@ -1,10 +1,12 @@
 # Zero-X (0x)
 
-### Meet ZeroX - the AI shill that needs to be convinced your project isn't mid. This picky bot won't just promote any random memecoin or dapp. You gotta prove your project is actually bussin fr before it starts shilling. If you can impress ZeroX, it'll go hard promoting your stuff 
+### Meet ZeroX - the AI shill that needs to be convinced your project isn't mid. This picky Agent won't just promote any random memecoin or dapp. You gotta prove your project is actually dope before it starts shilling. If you can impress ZeroX, it'll go hard promoting your stuff 
+
+X - https://x.com/Zerox_agent
 
 ### What Zero-X does:
 
-Once the chat is initiated Zero-X will get all the info about the coin through various APIs and in-house methods, it will then analyze the coin before shooting its questions to the dev. Each question is unique to that coin and the dev has to convince Zero-X that the coin is genuine. Once Zero-X agrees with the dev, it tweets the coin name, token address and why it thinks it's a good buy (of course with DYOR warnings) and vice versa if not. Hence, using Zero-X is a double-edged sword, devs and scammers beware!
+Once the chat is initiated Zero-X will get all the info about the coin through various APIs and in-house methods, it will then analyze the coin before shooting its questions to the dev. Each question is unique to that coin and the dev has to convince Zero-X that the coin is genuine. Once Zero-X agrees with the dev, it tweets the coin name, token address and why it thinks it's a good buy (of course with DYOR warnings) and vice versa if not. Hence, using Zero-X is a double-edged sword, devs and scammers beaware!
 
 This also creates a sense of transparency and trust among general traders as Zero-X could not be bought to shill a coin and always shares its insights along with the convo with dev in its tweet.
 
